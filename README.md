@@ -15,8 +15,8 @@ To ensure the tags come out as intended ensure the following are correct before 
 After printing, measure from the outer edges of the tag that it is infact 6in x 6in.
 
 ### File Structure
-* `./pdf/` Contains scaled tag images to an 8.5in x 11in pdf, 1 tag per file.
+* `./pdf/` Contains scaled tag images to an `8.5in x 11in` pdf, 1 tag per file.
 * `./png/` Contains the original 16h5 tags from the [AprilTag repo](https://github.com/AprilRobotics/apriltag-imgs/tree/master/tag16h5).
 * `AprilTag16h5-Combined.pdf` The combined file containing all 30 16h5 tags, the tags are labeled.
   * Tag 0 is not missing, it is on page 30.
-* `AprilTag16h5.psd` The Photoshop document used to scale the original 8px x 8px tags to 8.5in x 11in.
+* `AprilTag16h5.psd` The Photoshop document used to scale the original `8px x 8px` tags to `8.5in x 11in`.
