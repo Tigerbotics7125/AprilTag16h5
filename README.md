@@ -10,7 +10,7 @@ To ensure the tags come out as intended ensure the following are correct before 
 * No "Save ink/toner"
 * Print on one side
 * No margin
-* 100% scale, no "it", "it to paper size", "fit to printable area", or "shrink oversized pages"
+* 100% scale, no "fit", "fit to paper size", "fit to printable area", or "shrink oversized pages"
 
 After printing, measure from the outer edges of the tag that it is infact 6in x 6in.
 
